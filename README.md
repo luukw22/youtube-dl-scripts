@@ -8,9 +8,9 @@ Download the .sh files from the GitHub repository: https://github.com/luukw22/yo
 To set execute permission for the scripts, run the following commands:  
 sudo chmod +x ytmp3.sh  
 sudo chmod +x ytmp4.sh  
-Fedora users:  
+Fedora/RHEL users:  
 sudo chmod +x ytupdate_fedora.sh  
-Ubuntu users:  
+Ubuntu/Debian users:  
 sudo chmod +x ytupdate_ubuntu.sh  
 
 
@@ -21,7 +21,7 @@ mp3:
 ./ytmp3.sh  
 mp4:  
 ./ytmp4.sh  
-update (Fedora):  
+update (Fedora/RHEL):  
 ./ytupdate_fedora.sh  
 update (Ubuntu/Debian):  
 ./ytupdate_ubuntu.sh  
