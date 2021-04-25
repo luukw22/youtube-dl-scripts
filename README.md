@@ -4,6 +4,7 @@ Scripts for downloading mp3 and mp4 files with youtube-dl on Bash/Linux
 # Installation
 
 Download the .sh files from the GitHub repository: https://github.com/luukw22/youtube-dl-scripts/
+Or the .tar.xz package from: https://github.com/luukw22/youtube-dl-scripts/releases
 
 To set execute permission for the scripts, run the following commands:  
 sudo chmod +x ytmp3.sh  
